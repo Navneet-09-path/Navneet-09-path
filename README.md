@@ -15,6 +15,10 @@
 </div>
 
 ---
+<p align="center">
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+Duniya+👋;Welcome+to+My+Profile+मित्रों+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Hare+Krishna+🙏"></a>
+</p>
+
 
 ## 🙋‍♂️ About Me
 
