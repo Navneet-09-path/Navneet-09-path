@@ -118,7 +118,7 @@ An interface-driven compression system built around the Huffman Coding algorithm
 </div>
 
 ---
-
+<div align="center">
 ## 🏆 Achievements
 
 | 🏅 Achievement | 📅 Year |
@@ -127,6 +127,7 @@ An interface-driven compression system built around the Huffman Coding algorithm
 | 🎤 Official Event Anchor — Bhartiyam Annual College Fest | 2026 |
 |🎙️ Stand-Up Comedy Prize Winner — AFMC Pune |  2025
 |✍️ 3rd Prize — National Writing Contest by Mugafi |  2025
+</div>
 
 ---
 
