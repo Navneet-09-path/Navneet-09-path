@@ -108,17 +108,6 @@ An interface-driven compression system built around the Huffman Coding algorithm
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Navneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 | 🏅 Achievement | 📅 Year |
@@ -130,6 +119,26 @@ An interface-driven compression system built around the Huffman Coding algorithm
 
 
 ---
+
+<div align="center">
+
+### 💭 Quote I Live By
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+---
+
+### ⚡ Quick Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navneet-09-path&theme=tokyonight" alt="Profile Summary" />
+
+---
+
+**🚀"Turning caffeine into code, and code into impact."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+</div>
 
 ## 📚 Relevant Coursework
 
